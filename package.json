@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "webpack": "webpack --hide-modules --progress",
+    "dev": "webpack --hide-modules --progress --watch"
+  },
+  "devDependencies": {
+    "axios": "^0.15.2",
+    "laravel-mix": "^0.3.0",
+    "vue": "^2.0.1",
+    "vue-router": "^2.1.1"
+  }
+}
